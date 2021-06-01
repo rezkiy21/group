@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<group>
+    <number>240102</number>
+    <spisok>
+        <student id="1">
+            <name>Дмитрий</name>
+            <age>20</age>
+            <marks>
+                <mark>5</mark>
+                <mark>8</mark>
+                <mark>10</mark>
+                <mark>6</mark>
+            </marks>
+        </student>
+        <student id="15">
+            <name>Сергей</name>
+            <age>21</age>
+            <marks>
+                <mark>9</mark>
+                <mark>8</mark>
+                <mark>10</mark>
+                <mark>7</mark>
+            </marks>
+        </student>
+        <student id="7">
+            <name>Денис</name>
+            <age>20</age>
+            <marks>
+                <mark>7</mark>
+                <mark>8</mark>
+                <mark>9</mark>
+                <mark>6</mark>
+            </marks>
+        </student>
+    </spisok>
+</group>
